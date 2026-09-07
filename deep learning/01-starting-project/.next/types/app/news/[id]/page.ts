@@ -1,4 +1,4 @@
-// File: C:\Users\ruddh\Documents\nextjs\sim\01-starting-project\app\news\[id]\page.js
+// File: C:\Users\ruddh\Documents\nextjs\deep learning\01-starting-project\app\news\[id]\page.js
 import * as entry from '../../../../../app/news/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

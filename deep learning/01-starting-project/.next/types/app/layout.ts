@@ -1,4 +1,4 @@
-// File: C:\Users\ruddh\Documents\nextjs\sim\01-starting-project\app\layout.js
+// File: C:\Users\ruddh\Documents\nextjs\deep learning\01-starting-project\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
